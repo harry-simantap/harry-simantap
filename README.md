@@ -10,10 +10,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
-## Here's some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=harry-simantap&show_icons=true&include_all_commits=true)](https://github.com/harry-simantap/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry-simantap&layout=compact)](https://github.com/harry-simantap/github-readme-stats)
-
 <!---
 harry-simantap/harry-simantap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
